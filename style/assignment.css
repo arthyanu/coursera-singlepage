@@ -1,0 +1,22 @@
+form {
+  border: 2px solid blue;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.error {
+  color: red;
+}
+
+input.ng-invalid {
+  border-color: #f2672e;
+}
+
+input.ng-valid {
+  border-color: rgb(44, 245, 4);
+  color: green;
+}
+
+.valid {
+  color: green;
+}
